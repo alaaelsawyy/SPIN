@@ -22,7 +22,7 @@ SPIN is a startup program with the goal of spreading space technology and scienc
 
 ## [Embededd Systems] 
 
-### Tasks
+### Tasks _ C Programming Exercises
 
 - #### [Task 1:]
 
@@ -33,12 +33,13 @@ SPIN is a startup program with the goal of spreading space technology and scienc
 
 - #### [Task 2:]
 
-   -  Conditional Statements using if and switch statements in c programming.
+   -  Conditional Statements using if and switch statements.
    -  loops (like for and while).
      
 - #### [Task 3:]
   -  loops and conditional statements to create patterns, perform calculations, and solve algorithmic problems.
-  -  writing functions to modularize code and improve readability.
+  -  Function implementation.
+
 
 
  

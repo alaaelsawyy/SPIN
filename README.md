@@ -31,7 +31,7 @@ SPIN is a startup program with the goal of spreading space technology and scienc
    - Performing arithmetic, logical, and bitwise operations.
    - Making decisions using conditional statements.
 
-- #### [Task 2:]
+- #### [[Task 2:]](https://github.com/alaaelsawyy/SPIN/blob/c7ddd79ea5cd3a71ad9d406e2dd880e09bc0931e/Tasks/Task%202.c)
 
    -  Conditional Statements using if and switch statements.
    -  loops (like for and while).

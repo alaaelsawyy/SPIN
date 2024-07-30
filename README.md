@@ -24,7 +24,7 @@ SPIN is a startup program with the goal of spreading space technology and scienc
 
 ### Tasks _ C Programming Exercises
 
-- #### [Task 1:]
+- #### [[Task 1:]](https://github.com/alaaelsawyy/SPIN/blob/44dfc3e3c42a46b623fd3e9e9ccc14c395757bc1/Tasks/Task%201.c)
 
    - Basic input/output using scanf and printf.
    - Declaring and using variables of different data types.

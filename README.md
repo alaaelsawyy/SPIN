@@ -26,18 +26,18 @@ SPIN is a startup program with the goal of spreading space technology and scienc
 
 - #### [Task 1:]
 
-   - Objective : Basic input/output using scanf and printf.
+   - Basic input/output using scanf and printf.
    - Declaring and using variables of different data types.
    - Performing arithmetic, logical, and bitwise operations.
    - Making decisions using conditional statements.
 
 - #### [Task 2:]
 
-   - Objective : Conditional Statements using if and switch statements in c programming.
+   -  Conditional Statements using if and switch statements in c programming.
    -  loops (like for and while).
      
 - #### [Task 3:]
-  - Objective : loops and conditional statements to create patterns, perform calculations, and solve algorithmic problems.
+  -  loops and conditional statements to create patterns, perform calculations, and solve algorithmic problems.
   -  writing functions to modularize code and improve readability.
 
 

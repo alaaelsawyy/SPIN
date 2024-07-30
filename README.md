@@ -34,7 +34,7 @@ SPIN is a startup program with the goal of spreading space technology and scienc
 - #### [Task 2:]
 
    - Objective : Conditional Statements using if and switch statements in c programming.
-   -  loops (like for and while)
+   -  loops (like for and while).
      
 - #### [Task 3:]
   - Objective : loops and conditional statements to create patterns, perform calculations, and solve algorithmic problems.

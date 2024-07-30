@@ -42,16 +42,3 @@ SPIN is a startup program with the goal of spreading space technology and scienc
 
 
  
-## [Control Systems] 
-
-### Tasks
-
-- #### [Task 1:]
-
-   - Objective: Basic input/output using scanf and printf.
-   - Declaring and using variables of different data types.
-   - Performing arithmetic, logical, and bitwise operations.
-   - Making decisions using conditional statements.
-- #### [Task 2:]
-
-   - Objective: a breif of task 2.

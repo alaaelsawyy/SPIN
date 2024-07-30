@@ -36,7 +36,7 @@ SPIN is a startup program with the goal of spreading space technology and scienc
    -  Conditional Statements using if and switch statements.
    -  loops (like for and while).
      
-- #### [Task 3:]
+- #### [[Task 3:]](https://github.com/alaaelsawyy/SPIN/blob/5db1e200cf48462aa60d5df55d60e99e74f18a3b/Tasks/Task%203.c)
   -  loops and conditional statements to create patterns, perform calculations, and solve algorithmic problems.
   -  Function implementation.
 

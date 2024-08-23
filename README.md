@@ -40,7 +40,7 @@ SPIN is a startup program with the goal of spreading space technology and scienc
   -  loops and conditional statements to create patterns, perform calculations, and solve algorithmic problems.
   -  Function implementation.
 
-- #### [[Task 4]](https://github.com/alaaelsawyy/SPIN/blob/c7ddd79ea5cd3a71ad9d406e2dd880e09bc0931e/Tasks/Task%202.c)
+- #### [[Task 4]](https://github.com/alaaelsawyy/SPIN/blob/4e69338d4088d0502eb084374fc07af18481dd1e/Tasks/Task%204.c)
   - array operations in C, including printing negative elements, finding maximum and minimum values, calculating sums, copying elements.
   - reversing arrays, performing matrix addition, finding maximum and minimum in matrices, and checking matrix equality. 
 

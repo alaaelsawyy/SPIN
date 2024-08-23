@@ -27,8 +27,6 @@ for (int i = 0; i < n; i++) {
 
 
 
-
-
 // 2. Write a C program to find maximum and minimum element in an array
 #include <stdio.h>
 
@@ -67,9 +65,6 @@ int main() {
 
 
 
-
-
-
 // 3. Write a. program in C to find the sum of all elements of the array
 #include <stdio.h>
 
@@ -90,9 +85,6 @@ int main() {
 
     return 0;
 }
-
-
-
 
 
 
@@ -128,8 +120,6 @@ int main() {
 
 
 
-
-
 /* 5. Write a program in C to read n number of values in an array and
 display it in reverse order. Where n_max=100.*/
 #include<stdio.h>
@@ -158,9 +148,6 @@ printf("%d \n", arr[i]);
     }
 return 0;
 }
-
-
-
 
 
 
@@ -209,8 +196,6 @@ int main() {
 
 
 
-
-
 // 7. Write a c program to find the maximum and the minimum of a given 3*4 array
 #include <stdio.h>
 
@@ -243,8 +228,6 @@ int main() {
 
     return 0;
 }
-
-
 
 
 

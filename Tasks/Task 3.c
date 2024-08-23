@@ -76,30 +76,54 @@ int main() {
 /* 4. Write a program in C to display the pattern like right angle triangle with a number
  1234
  123 
- 12 */
- #include<stdio.h>
+ 12
+ 1 */
+#include <stdio.h>
+
+int main() {
+    int rows;
+
+    scanf("%d", &rows);
+
+    for (int i = rows; i >= 1; i--) {
+        for (int j = 1; j <= i; j++) {
+            printf("%i",j);
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+
+
+/* 5. Write a program in C to display the pattern like right angle triangle with a number
+ 1
+ 12
+ 123
+ 1234 */
+#include <stdio.h>
  
- int main(){
-     int i ,j;
-
-     for ( i = 4 ; i >= 1 ; i--)  // Outer loop iterates from 4 down to 1
-     {
-         for ( j = 1 ; j <= i ; j++) // Inner loop iterates from 1 up to the current value of i
-         {
-         printf("%d",j);
-         }
-         printf("\n");
-     }
-
-     return(0);
- }
-
-
+int main() {
+    int rows;
+ 
+    scanf("%d", &rows);
+ 
+    for (int i = 1; i <= rows; i++) {
+        for (int j = 1; j <= i; j++) {
+            printf("%i",j);
+        }
+        printf("\n");
+    }
+ 
+    return 0;
+}
 
 
 
 
-// Functions
+
+
+  // Functions
 
 // 1. Write a function that takes an integer and return 1 if it's even or 0 it's odd. 
 #include <stdio.h>

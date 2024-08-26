@@ -34,20 +34,20 @@ SPIN is a startup program with the goal of spreading space technology and scienc
 - #### [[Task 2]](https://github.com/alaaelsawyy/SPIN/blob/c7ddd79ea5cd3a71ad9d406e2dd880e09bc0931e/Tasks/Task%202.c)
 
    -  Conditional Statements using if and switch statements.
-   -  loops (like for and while).
+   -  Loops (like for and while).
      
 - #### [[Task 3]](https://github.com/alaaelsawyy/SPIN/blob/5db1e200cf48462aa60d5df55d60e99e74f18a3b/Tasks/Task%203.c)
-  -  loops and conditional statements to create patterns, perform calculations.
-  -  solve algorithmic problems.
-  -  Function implementation.
+  -  Loops and Conditional statements to create patterns, perform calculations.
+  -  Solving algorithmic problems and Function implementation.
 
 - #### [[Task 4]](https://github.com/alaaelsawyy/SPIN/blob/4e69338d4088d0502eb084374fc07af18481dd1e/Tasks/Task%204.c)
-  - array operations in C, including printing negative elements, finding maximum and minimum values.
-  - calculating sums, copying elements, reversing arrays, performing matrix addition.
-  - finding maximum and minimum in matrices, and checking matrix equality. 
+  - Array operations in C, including printing negative elements, finding maximum and minimum values.
+  - Calculating sums, copying elements, reversing arrays, performing matrix addition.
+  - Finding maximum and minimum in matrices, and checking matrix equality. 
 
 - #### [[Task 5]](https://github.com/alaaelsawyy/SPIN/blob/f0a7401185769c4b42fba766d12618480fa26daf/Tasks/Task%205.c)
-  - Functions and Pointers in C: implement functions to calculate circle area and circumference, find array statistics.
+  - Functions and Pointers in C: implement functions to calculate circle area and circumference.
+  - Finding maximum, minimum and average of the array.
   - Count ones and negatives, reverse an array, and generate a Fibonacci series.
 
  

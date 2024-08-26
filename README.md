@@ -25,14 +25,12 @@ SPIN is a startup program with the goal of spreading space technology and scienc
 ### Tasks _ C Programming Exercises
 
 - #### [[Task 1]](https://github.com/alaaelsawyy/SPIN/blob/44dfc3e3c42a46b623fd3e9e9ccc14c395757bc1/Tasks/Task%201.c)
-
    - Basic input/output using scanf and printf.
    - Declaring and using variables of different data types.
    - Performing arithmetic, logical, and bitwise operations.
    - Making decisions using conditional statements.
 
 - #### [[Task 2]](https://github.com/alaaelsawyy/SPIN/blob/c7ddd79ea5cd3a71ad9d406e2dd880e09bc0931e/Tasks/Task%202.c)
-
    -  Conditional Statements using if and switch statements.
    -  Loops (like for and while).
      
@@ -47,7 +45,7 @@ SPIN is a startup program with the goal of spreading space technology and scienc
 
 - #### [[Task 5]](https://github.com/alaaelsawyy/SPIN/blob/f0a7401185769c4b42fba766d12618480fa26daf/Tasks/Task%205.c)
   - Functions and Pointers in C: implement functions to calculate circle area and circumference.
-  - Finding maximum, minimum and average of the array.
+  - Finding the maximum, minimum, and average of the array.
   - Count ones and negatives, reverse an array, and generate a Fibonacci series.
 
  

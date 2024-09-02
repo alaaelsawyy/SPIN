@@ -1,3 +1,14 @@
+/* Write a c program to ask the user to:
+
+1.enter the names, grades and id of 10 student and store this data in
+array of structures using a function called get_data
+2.then using one functions called average_highest_lowest_grade: that
+takes the address of the array and return the average grade, the info of
+the student with highest grad, and the info of the student with lowest
+grade.
+3.The printing should happen in main function and the passing should
+be by reference.*/
+
 #include <stdio.h>
 #include <string.h>
 

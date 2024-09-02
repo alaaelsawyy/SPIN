@@ -48,6 +48,6 @@ SPIN is a startup program with the goal of spreading space technology and scienc
   - Finding the maximum, minimum, and average of the array.
   - Count ones and negatives, reverse an array, and generate a Fibonacci series.
 
-- #### [[Task 6]](https://github.com/alaaelsawyy/SPIN/blob/7cc7a5a3256e2f1d7ed00e7090594a6457ec3172/Tasks/Task%206.c)
+- #### [[Task 6]](https://github.com/alaaelsawyy/SPIN/blob/0bf23eab4a16aac9065454fd22d97d518c7fcf2e/Tasks/Task%206.c)
   - Using structures, functions, and passing by reference to solve a problem.
  

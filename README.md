@@ -1,6 +1,5 @@
 # SPIN
 
-![SPIN](https://github.com/moezzelrgal/Electromagnetic-Waves/assets/101054811/3af3fec3-5aa2-474b-9332-460aad2606f2)
 
 
 ## Overview

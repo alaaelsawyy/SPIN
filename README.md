@@ -49,4 +49,17 @@ SPIN is a startup program with the goal of spreading space technology and scienc
 
 - #### [[Task 6]](https://github.com/alaaelsawyy/SPIN/blob/0bf23eab4a16aac9065454fd22d97d518c7fcf2e/Tasks/Task%206.c)
   - Using structures, functions, and passing by reference to solve a problem.
- 
+
+
+### Final Project _ Employee Record System
+- #### [[Employee Record System]](https://github.com/alaaelsawyy/SPIN/blob/f0a7401185769c4b42fba766d12618480fa26daf/Tasks/Task%205.c)
+### Aim: 
+
+Building an employee record system using a linked list to keep track of employee data in a company. The system should allow adding, deleting, and modifying records as required.
+### The user will be provided with 6 options:
+- 1.Add a new employee data.
+- 2.Delete the data of an employee. 
+- 3.Modify the data of an employee. 
+- 4.View the data of an employee.
+- 5.View all the employee's data.
+- 6.Exit.

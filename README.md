@@ -52,11 +52,11 @@ SPIN is a startup program with the goal of spreading space technology and scienc
 
 
 ### Final Project _ Employee Record System
-- #### [[Employee Record System]](https://github.com/alaaelsawyy/SPIN/blob/f0a7401185769c4b42fba766d12618480fa26daf/Tasks/Task%205.c)
+- #### [[Employee Record System Project]](https://github.com/alaaelsawyy/SPIN/tree/d0d74751160025cce57373690def3a8ee79a0a85/Employee%20Record%20System%20Project)
 ### Aim: 
 
-Building an employee record system using a linked list to keep track of employee data in a company. The system should allow adding, deleting, and modifying records as required.
-### The user will be provided with 6 options:
+The objective of this project is to develop an employee record system using a linked list to manage employee data within a company. The system will allow for adding, deleting, modifying, and viewing employee records as needed.
+ #### The user will be provided with 6 options:
 - 1.Add a new employee data.
 - 2.Delete the data of an employee. 
 - 3.Modify the data of an employee. 
